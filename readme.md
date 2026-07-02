@@ -3,10 +3,10 @@
  Liste des commandes git 
  
  ## git init 
- Permet d'initialiser un répectoire 
+ -Permet d'initialiser un répectoire 
 
  ## git add 
- Permet d'ajouter un fichier ou des modifications dans le stagging
+ -Permet d'ajouter un fichier ou des modifications dans le stagging
 
  ## git commit 
  -Permet d'enregistrer une modification en local
@@ -18,4 +18,4 @@
  -Vérifier le statut du répectoire
 
 ## git log 
-Permet de lister les modification en local
+-Permet de lister les modification en local
