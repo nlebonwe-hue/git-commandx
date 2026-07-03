@@ -30,3 +30,8 @@
 
 ## git pull 
 -Permet de récupérer mes modifications existantes 
+
+## git rebase 
+-Permet de recuperer les modifications de la mère 
+-Les modifications de la branches mères sont placer en dessous des modifications de la blanche courantes
+-les modification de la branches courantes sont placées en dessus des modifications de la blanches mère
